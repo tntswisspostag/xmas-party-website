@@ -1,0 +1,76 @@
+@charset "utf-8";
+a:link {
+	color:#FF6600;
+}
+
+a:hover, a:active, a:visited {
+	color:#FF6600;
+	text-decoration:underline;
+}
+
+h1 {
+  font-size: 25px;
+  color: #333333;
+}
+
+h4 {
+  color: #333333;  
+}
+
+.red {
+  color: #FF0000;
+}
+
+body {
+ 	padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+ /* Custom container */
+ 
+.container-narrow {
+        margin: 0 auto;
+        max-width: 970px;
+}
+ 
+.container-narrow > hr {
+       margin: 20px 0;
+}
+
+/* Main marketing message and sign up button */
+
+.jumbotron {
+	margin: 40px 0;
+    text-align: center;
+}
+
+.jumbotron h1 {
+	font-family: Arial, Verdana, Sans Serif;
+	color: #FF6600;
+	font-size: 50px;
+    line-height: 1;
+}
+
+.jumbotron .btn {
+    font-size: 18px;
+    padding: 14px 24px;
+}
+
+.banner {
+    text-align: center;
+}
+
+.banner-margin-bot {
+    margin-bottom: 20px;
+}
+
+hr {
+  margin: 10px 0;
+  border: 0;
+  border-top: 1px solid #CCCCCC;
+  border-bottom: 1px solid #ffffff;
+}
+
+.footer {
+		color: #CCC;
+}
