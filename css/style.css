@@ -9,7 +9,6 @@ a:hover, a:active, a:visited {
 }
 
 h1 {
-  font-size: 25px;
   color: #333333;
 }
 
@@ -22,7 +21,6 @@ h4 {
 }
 
 body {
- 	padding-top: 20px;
     padding-bottom: 40px;
 }
 
